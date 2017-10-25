@@ -5,7 +5,7 @@
 * 理解Bootstrap栅格系统和响应式布局
 
 ## 知识点讲解
-* [CSS基础](https://s3.cn-north-1.amazonaws.com.cn/tws-courses-resource/CSS%E5%9F%BA%E7%A1%80.mp4)
+* CSS基础
 * Bootstrap基础（讲解视频待添加）
 
 ## 自学资料 & 自学任务

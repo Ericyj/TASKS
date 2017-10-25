@@ -9,11 +9,11 @@
 * 面向过程编程简介
 
 ## 自学资料 & 自学任务
-	* 自学资料：
-		* Javascript基础
-		* Javascript初级训练营
-	* 自学任务：
-		* 完成上面两个自学任务
+* 自学资料：
+	* Javascript基础
+	* Javascript初级训练营
+* 自学任务：
+	* 完成上面两个自学任务
 
 ## 练习题步骤
 * git clone题目 tws-practice/collection-calculate-camp 到本地开发环境或者

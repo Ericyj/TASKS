@@ -12,7 +12,7 @@
 		[http://www.w3school.com.cn/html/index.asp](http://www.w3school.com.cn/html/index.asp)
 		* 自学任务：
 			* 阅读到《HTML 格式化》部分
-			* 掌握<div>, <h1> , <p>, <ul>, <li>, <form>, <input>, <img>, <a>等常用标签
+			* 掌握`<div>, <h1> , <p>, <ul>, <li>, <form>, <input>, <img>, <a>`等常用标签
 			* 了解HTML页面基本结构
             
 ## 练习题步骤
